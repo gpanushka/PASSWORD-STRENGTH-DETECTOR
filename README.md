@@ -1,4 +1,4 @@
-This is my third task as a Cyber Security Intern at Prodigy InfoTech where I built a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters and provides feedback to users on the password's strength.
+I built a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters and provides feedback to users on the password's strength.
 
 I have used resources like Visual Studio Code as the text editor and used internet resources for debugging. This task is executed using the following steps:
 
